@@ -1,9 +1,9 @@
 # ALZA.login
 
-<MAIN GOAL>
+# MAIN GOAL
 1. The password generator was built for ALZA employees access all areas in the workplace.
 
-<PROJECT>
+# PROJECT
 1. The first thing in the JavaScript is to set our variables. We need to assign variables to the html elements. We used document.querySelector() to select our html element. This returns the first Element in the html document.
 
 2. The document.getElementById() selects the html element with the selected id of copy. Our variables are set and we need to start telling them what to do next.
